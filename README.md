@@ -19,3 +19,5 @@
 
 # 项目实战范围
   物联网、IoT、 智能家居相关业务
+  
+ 详细WIKI https://github.com/Jasson/earlybird/wiki
